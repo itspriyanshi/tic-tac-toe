@@ -238,7 +238,7 @@ int main()
     cout << "|        Welcome To the Tic Tac Toe Game      |" << endl;
     cout << "===============================================" << endl;
     cout<<endl;
-    cout<<  " MADE BY SHREYA DUDEJA , ENROLLMENT NUMBER=15501032021"<<endl;
+    cout<<  " MADE BY PRIYANSHI GUPTA "<<endl;
     SetConsoleTextAttribute(h,11);
     gameboard();
     SetConsoleTextAttribute(h,14);
