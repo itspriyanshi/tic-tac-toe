@@ -5,9 +5,10 @@ Tic-Tac-Toe is a two-player game(Player1 Vs Player2 or Player Vs Computer) playe
 
 # Sample Output
 
-===================================
-  WELCOME TO THE TIC TAC TOE GAME
-===================================
+
+  
+WELCOME TO THE TIC TAC TOE GAME
+
 MADE BY PRIYANSHI GUPTA
 
              |     |
