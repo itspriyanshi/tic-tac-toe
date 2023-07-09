@@ -86,4 +86,3 @@ Player 1, please choose your marker (X or O): X
              |     |
 
 Congratulations! Player one won!
-
